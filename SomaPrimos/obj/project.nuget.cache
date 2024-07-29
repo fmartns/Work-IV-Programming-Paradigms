@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ymYukH1QKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fmartns\\Desktop\\Trabalho 3 Paradigmas da Programação\\SomaPrimos\\SomaPrimos.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fmartns\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
